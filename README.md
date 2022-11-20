@@ -1,5 +1,4 @@
-![Header GitHub jhonigrueso](https://i.ibb.co/Lx7HyHj/header-main.png)
-
+<img align="center" src="https://i.ibb.co/Lx7HyHj/header-main.png" alt="yonnigrueso"  width="100" />
 
 <h1 align="center">Hi 👋, I'm Yonni Grueso</h1>
 <h3 align="center">A passionate backend developer from Cali,Colombia</h3>
