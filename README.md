@@ -1,12 +1,48 @@
-<img align="center" src="https://i.ibb.co/Lx7HyHj/header-main.png" alt="yonnigrueso"  width="100" />
+<img align="center" src="https://i.ibb.co/Lx7HyHj/header-main.png" alt="yonnigrueso"  width="100%" />
 
 <h1 align="center">Hi 👋, I'm Yonni Grueso</h1>
-<h3 align="center">A passionate backend developer from Cali,Colombia</h3>
+<h3 align="center">A passionate backend developer, I've take courses in Platzi, Google and Microsoft, I know technologies like HTML, CSS, Java Script, Php, Flutter 🔥.</h3>
 
-- 📫 How to reach me **jhonigrueso2@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/Jhoni2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@yonnigrueso" height="30" width="40" /></a>
-<a href="https://instagram.com/@jhonicaicedo_34" target="blank"><img align="center" src="https://camo.githubusercontent.com/aecaf87326884e8b0466bb799265a13fee7586246ebda3e066cb7fad82a1fd23/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667" alt="@jhonicaicedo_34" height="30" width="40" /></a>
+<p align='center'>
+Also, You can find me on the following social networks 🤗.
 </p>
+
+<p align='center'>
+  
+  <a href="https://twitter.com/Jhoni2002">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/yonni-grueso">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:jhonigrueso2@gmail.com?subject=Hola%20Yonni">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
+  </a>
+  
+</p>
+
+<hr>
+
+<h4 >⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h4>
+<p align='center'>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/linux%20-%23000.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h4>🚀&nbsp;&nbsp;&nbsp;My Projects</h4>
+<h5><a href="https://jhonigrueso.github.io/SimonDice.github.io/">💻 Simon Says</a></h5>
+<p>This is a memorization game that will serve you a lot to entertain you and it was also made with the javascript library called D3.js.<br>
+<a href="https://github.com/jhonigrueso/SimonDice.github.io">Repository here</a></p>
+
+
